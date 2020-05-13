@@ -1,4 +1,4 @@
 # MADE-facial-keypoints-detection
 
 
-![Alt text](/images/submit_screenshot.png?raw=true "Submit")
+![Alt text](https://github.com/snv-ds/MADE-facial-keypoints-detection/tree/master/images?raw=true "Submit")
